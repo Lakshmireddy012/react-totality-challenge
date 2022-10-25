@@ -1,0 +1,36 @@
+.img-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.img-auto {
+    max-width: 100%;
+}
+
+.img-centered-text {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.cta-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-dark {
+    color: black;
+}
+
+.iphone-text {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
